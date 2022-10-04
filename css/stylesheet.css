@@ -9,3 +9,22 @@
     background-color: pink;
     color: blue;
 }
+
+
+span{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px;
+    border-top-color: black;
+    border-bottom: 4px;
+    border-bottom-color: grey;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+p{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: lightgreen;
+    margin: 5px;
+}
+
